@@ -1,0 +1,10 @@
+{
+    "time": "00:19",
+    "db": {
+        "name": "coccon",
+        "login": "mysql",
+        "password": ""
+    },
+    "fileName": "coccon.sql",
+    "path": "./"
+}
